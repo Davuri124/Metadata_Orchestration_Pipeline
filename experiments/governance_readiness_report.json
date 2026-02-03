@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-01-22T12:12:05.712483",
+  "checks": {
+    "execution_summary": true,
+    "metadata_versioning": true,
+    "change_impact_analysis": true,
+    "data_lineage": true,
+    "performance_metrics": true,
+    "orchestration_log": true,
+    "execution_profile_used": true
+  },
+  "overall_status": "GOVERNANCE_READY"
+}

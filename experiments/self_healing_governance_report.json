@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-01-22T15:52:23.754666",
+  "self_healing_summary": {
+    "total_pipeline_runs": 12,
+    "total_failures_detected": 1,
+    "retries_attempted": 0,
+    "successful_recoveries": 0,
+    "unsafe_retries_detected": 0
+  },
+  "governance_verdict": "SELF_HEALING_GOVERNED",
+  "interpretation": "All recovery actions were governed, bounded, and auditable."
+}

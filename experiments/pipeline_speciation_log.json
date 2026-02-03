@@ -1,0 +1,212 @@
+[
+  {
+    "run_id": "7139edac-eed3-47f0-b254-3ddc50397beb",
+    "timestamp": "2026-01-15T13:57:49.200739",
+    "execution_profile": "dry_run",
+    "trigger": "QUANTUM_AGENT_DECISION",
+    "description": "Pipeline execution path selected adaptively based on agent confidence"
+  },
+  {
+    "run_id": "fdf63e3b-8523-4b53-b6ff-33f969315654",
+    "timestamp": "2026-01-15T13:58:03.371712",
+    "execution_profile": "dry_run",
+    "trigger": "QUANTUM_AGENT_DECISION",
+    "description": "Pipeline execution path selected adaptively based on agent confidence"
+  },
+  {
+    "run_id": "5193d969-5f82-4fa5-81ea-e1baca2e2726",
+    "timestamp": "2026-01-22T11:16:09.229103",
+    "execution_profile": "dry_run",
+    "trigger": "QUANTUM_AGENT_DECISION",
+    "description": "Pipeline execution path selected adaptively based on agent confidence"
+  },
+  {
+    "run_id": "3a969359-b9ef-4111-a015-ccba8ba407a7",
+    "timestamp": "2026-01-22T12:04:55.171448",
+    "execution_profile": "full_run",
+    "trigger": "QUANTUM_AGENT_DECISION",
+    "description": "Pipeline execution path selected adaptively based on agent confidence"
+  },
+  {
+    "run_id": "b4787257-7e00-4269-8e12-b33257f38cb5",
+    "timestamp": "2026-01-22T12:04:55.881185",
+    "execution_profile": "full_run",
+    "trigger": "QUANTUM_AGENT_DECISION",
+    "description": "Pipeline execution path selected adaptively based on agent confidence"
+  },
+  {
+    "run_id": "a41a5e32-a494-427c-b14c-efc18478ac25",
+    "timestamp": "2026-01-22T12:09:02.022255",
+    "execution_profile": "dry_run",
+    "trigger": "QUANTUM_AGENT_DECISION",
+    "description": "Pipeline execution path selected adaptively based on agent confidence"
+  },
+  {
+    "run_id": "0af9d0cf-e6be-4bf0-a6cc-92dd8bc7c3e4",
+    "timestamp": "2026-01-22T15:45:26.578899",
+    "execution_profile": "full_run",
+    "trigger": "QUANTUM_AGENT_DECISION",
+    "description": "Pipeline execution path selected adaptively based on agent confidence"
+  },
+  {
+    "run_id": "dda4a8e7-6891-427b-a92d-4b22bb5b7855",
+    "timestamp": "2026-01-22T15:45:27.344915",
+    "execution_profile": "full_run",
+    "trigger": "QUANTUM_AGENT_DECISION",
+    "description": "Pipeline execution path selected adaptively based on agent confidence"
+  },
+  {
+    "run_id": "1722299f-3b95-46c1-a387-b00a8a73f92f",
+    "timestamp": "2026-01-22T15:48:37.102402",
+    "execution_profile": "full_run",
+    "trigger": "QUANTUM_AGENT_DECISION",
+    "description": "Pipeline execution path selected adaptively based on agent confidence"
+  },
+  {
+    "run_id": "4aff286c-edc1-4f6b-982d-e4c7e4590464",
+    "timestamp": "2026-01-22T15:48:37.834997",
+    "execution_profile": "full_run",
+    "trigger": "QUANTUM_AGENT_DECISION",
+    "description": "Pipeline execution path selected adaptively based on agent confidence"
+  },
+  {
+    "run_id": "1fdc571b-3f85-4d70-8f15-ea93538af1fb",
+    "timestamp": "2026-01-22T15:51:49.271244",
+    "execution_profile": "full_run",
+    "trigger": "QUANTUM_AGENT_DECISION",
+    "description": "Pipeline execution path selected adaptively based on agent confidence"
+  },
+  {
+    "run_id": "0feb4193-4c15-494a-8c60-24b9e076d087",
+    "timestamp": "2026-01-22T15:51:50.126842",
+    "execution_profile": "full_run",
+    "trigger": "QUANTUM_AGENT_DECISION",
+    "description": "Pipeline execution path selected adaptively based on agent confidence"
+  },
+  {
+    "run_id": "012405e9-e467-4fd7-9370-8f6b369ccefb",
+    "timestamp": "2026-01-22T16:56:03.684669",
+    "execution_profile": "dry_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "47532337-3438-4117-98a4-25f17cedbeed",
+    "timestamp": "2026-01-22T16:58:24.452388",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "d27934a5-bb75-4dff-9c08-f7bdc026d58e",
+    "timestamp": "2026-01-22T16:58:25.178094",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "b1d00fac-b63c-46d8-8e40-1907aad05b64",
+    "timestamp": "2026-01-22T16:58:28.892212",
+    "execution_profile": "dry_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "70f8300c-6655-4e0d-a553-8c2afd7c2d56",
+    "timestamp": "2026-01-22T17:01:02.488200",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "564ad069-db28-4040-8287-75c457333026",
+    "timestamp": "2026-01-22T17:01:03.639908",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "014e4dca-b79c-4e8f-a868-a3f6422074ee",
+    "timestamp": "2026-01-22T17:01:07.237588",
+    "execution_profile": "dry_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "84830644-5c95-4dba-935f-b4bc5456e5e4",
+    "timestamp": "2026-01-22T17:13:34.770401",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "837e1c03-e9db-4244-892e-11487ca1e29c",
+    "timestamp": "2026-01-22T17:13:35.974466",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "1f77daa0-5d9e-44cb-a200-ec638e5b6809",
+    "timestamp": "2026-01-26T00:54:34.900822",
+    "execution_profile": "dry_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "7ceccef3-d4cd-4f84-a409-3b56dab6ba15",
+    "timestamp": "2026-01-26T22:37:55.642933",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "510ab23f-f71f-4015-99c7-83458b8b147d",
+    "timestamp": "2026-01-26T22:37:56.967600",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "3f852eb0-8ced-4228-ad4c-3dd43ec0f5ff",
+    "timestamp": "2026-01-26T22:39:48.478399",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "23a85a5a-c191-4f0a-b5bf-09aa56d3c7ef",
+    "timestamp": "2026-01-26T22:39:49.773375",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "0e705ab5-8f8f-4c65-88c3-1c11ded3db34",
+    "timestamp": "2026-01-26T22:43:54.776308",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "20229400-eee5-441f-b8c0-ba97ebb8e7ef",
+    "timestamp": "2026-01-26T22:51:43.203974",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "befdb5a2-2fbb-4b8f-93d9-12d4202fa1db",
+    "timestamp": "2026-01-26T22:56:42.155761",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "fb63e991-7099-4ad2-8630-c0916ee9ee19",
+    "timestamp": "2026-01-26T23:00:36.933004",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "5ec5998e-8fb9-49b9-a511-a70a92b332b9",
+    "timestamp": "2026-01-26T23:00:38.290128",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "19ea43f2-63d4-4778-85f0-7444ff1d05c1",
+    "timestamp": "2026-01-26T23:12:26.611835",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  },
+  {
+    "run_id": "1185ca08-74d5-4303-b743-e1df1273b600",
+    "timestamp": "2026-01-26T23:12:27.652124",
+    "execution_profile": "full_run",
+    "trigger": "AGENT_DECISION"
+  }
+]

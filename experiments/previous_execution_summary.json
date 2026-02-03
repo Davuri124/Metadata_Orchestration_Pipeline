@@ -1,0 +1,18 @@
+{
+  "run_id": "1185ca08-74d5-4303-b743-e1df1273b600",
+  "dataset_id": "online_retail_transactions",
+  "metadata_version": 3,
+  "timestamp": "2026-01-26T23:12:27.572446",
+  "execution_status": "SUCCESS",
+  "records": {
+    "input": 541910,
+    "output": 541910,
+    "rejected": 0
+  },
+  "schema_validation": {
+    "dataset_id": "online_retail_transactions",
+    "timestamp": "2026-01-26T23:12:27.561112",
+    "missing_columns": [],
+    "overall_status": "PASS"
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "run_id": "41c8b398-04c6-4527-b457-7a3d4e86080d",
+    "timestamp": "2026-01-11T18:29:51.745955",
+    "execution_profile": "dry_run",
+    "skipped_stages": [
+      "output_write"
+    ]
+  },
+  {
+    "run_id": "7139edac-eed3-47f0-b254-3ddc50397beb",
+    "timestamp": "2026-01-15T13:57:49.155197",
+    "execution_profile": "dry_run",
+    "skipped_stages": [
+      "output_write"
+    ]
+  },
+  {
+    "run_id": "fdf63e3b-8523-4b53-b6ff-33f969315654",
+    "timestamp": "2026-01-15T13:58:03.313700",
+    "execution_profile": "dry_run",
+    "skipped_stages": [
+      "output_write"
+    ]
+  },
+  {
+    "run_id": "5193d969-5f82-4fa5-81ea-e1baca2e2726",
+    "timestamp": "2026-01-22T11:16:09.208002",
+    "execution_profile": "dry_run",
+    "skipped_stages": [
+      "output_write"
+    ]
+  },
+  {
+    "run_id": "a41a5e32-a494-427c-b14c-efc18478ac25",
+    "timestamp": "2026-01-22T12:09:01.940677",
+    "execution_profile": "dry_run",
+    "skipped_stages": [
+      "output_write"
+    ]
+  },
+  {
+    "run_id": "012405e9-e467-4fd7-9370-8f6b369ccefb",
+    "timestamp": "2026-01-22T16:56:03.586125",
+    "execution_profile": "dry_run",
+    "skipped_stages": [
+      "output_write"
+    ]
+  },
+  {
+    "run_id": "b1d00fac-b63c-46d8-8e40-1907aad05b64",
+    "timestamp": "2026-01-22T16:58:28.811076",
+    "execution_profile": "dry_run",
+    "skipped_stages": [
+      "output_write"
+    ]
+  },
+  {
+    "run_id": "014e4dca-b79c-4e8f-a868-a3f6422074ee",
+    "timestamp": "2026-01-22T17:01:07.187955",
+    "execution_profile": "dry_run",
+    "skipped_stages": [
+      "output_write"
+    ]
+  },
+  {
+    "run_id": "1f77daa0-5d9e-44cb-a200-ec638e5b6809",
+    "timestamp": "2026-01-26T00:54:34.828256",
+    "execution_profile": "dry_run",
+    "skipped_stages": [
+      "output_write"
+    ]
+  }
+]

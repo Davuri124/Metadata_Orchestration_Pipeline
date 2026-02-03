@@ -1,0 +1,17 @@
+QUANTUM-INSPIRED AGENT ANALYSIS REPORT
+====================================
+
+Generated at: 2026-01-26T23:12:25.954710
+
+Total records processed: 1465
+Total rejected records: 7
+
+Quantum Quality State (Superposition):
+  |valid> : 0.995
+  |suspect> : 0.003
+  |recoverable> : 0.001
+  |invalid> : 0.0
+
+Confidence Score: 0.996
+Collapsed Execution Profile: full_run
+Agent Decision: PROCEED_WITH_FULL_EXECUTION

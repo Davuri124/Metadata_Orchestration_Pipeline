@@ -1,0 +1,332 @@
+[
+  {
+    "run_id": "6774fa8a-3866-4e3f-b07c-1e9889826537",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 1,
+    "source_path": "data/raw/amazon.csv",
+    "target_path": "data/curated/amazon_metadata_curated.csv",
+    "rejected_data_path": "data/curated/amazon_metadata_curated_rejected.csv",
+    "execution_summary": "experiments/execution_summary.json",
+    "timestamp": "2026-01-11T18:13:37.837572"
+  },
+  {
+    "run_id": "4ec95bbd-edde-42ca-ba97-40fffa1e1dd4",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 1,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-11T18:21:44.162325"
+  },
+  {
+    "run_id": "72d4242f-1172-4889-8ac4-43e46647b9e0",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 1,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-11T18:24:41.888366"
+  },
+  {
+    "run_id": "9eebbcdb-43f7-493e-b610-41c807002486",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 1,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-11T18:25:18.169877"
+  },
+  {
+    "run_id": "4322542b-b8f1-4fad-8fad-fa28d552ad9b",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 1,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-11T18:27:19.172674"
+  },
+  {
+    "run_id": "a930087d-981a-4dd2-8173-a1cec522068d",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 1,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-11T18:27:59.872478"
+  },
+  {
+    "run_id": "41c8b398-04c6-4527-b457-7a3d4e86080d",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-11T18:29:51.755230"
+  },
+  {
+    "run_id": "bf63e7dc-4468-4079-b42a-831a9169decf",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-15T13:50:09.398547"
+  },
+  {
+    "run_id": "7139edac-eed3-47f0-b254-3ddc50397beb",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-15T13:57:49.182740"
+  },
+  {
+    "run_id": "fdf63e3b-8523-4b53-b6ff-33f969315654",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-15T13:58:03.351840"
+  },
+  {
+    "run_id": "5193d969-5f82-4fa5-81ea-e1baca2e2726",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T11:16:09.219105"
+  },
+  {
+    "run_id": "3a969359-b9ef-4111-a015-ccba8ba407a7",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T12:04:55.125854"
+  },
+  {
+    "run_id": "b4787257-7e00-4269-8e12-b33257f38cb5",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T12:04:55.851386"
+  },
+  {
+    "run_id": "a41a5e32-a494-427c-b14c-efc18478ac25",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T12:09:01.980535"
+  },
+  {
+    "run_id": "0af9d0cf-e6be-4bf0-a6cc-92dd8bc7c3e4",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T15:45:26.578899"
+  },
+  {
+    "run_id": "dda4a8e7-6891-427b-a92d-4b22bb5b7855",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T15:45:27.298882"
+  },
+  {
+    "run_id": "1722299f-3b95-46c1-a387-b00a8a73f92f",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T15:48:37.052077"
+  },
+  {
+    "run_id": "4aff286c-edc1-4f6b-982d-e4c7e4590464",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T15:48:37.801983"
+  },
+  {
+    "run_id": "1fdc571b-3f85-4d70-8f15-ea93538af1fb",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T15:51:49.232471"
+  },
+  {
+    "run_id": "0feb4193-4c15-494a-8c60-24b9e076d087",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T15:51:50.077486"
+  },
+  {
+    "run_id": "012405e9-e467-4fd7-9370-8f6b369ccefb",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T16:56:03.636785"
+  },
+  {
+    "run_id": "47532337-3438-4117-98a4-25f17cedbeed",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T16:58:24.450113"
+  },
+  {
+    "run_id": "d27934a5-bb75-4dff-9c08-f7bdc026d58e",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T16:58:25.127191"
+  },
+  {
+    "run_id": "b1d00fac-b63c-46d8-8e40-1907aad05b64",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T16:58:28.854652"
+  },
+  {
+    "run_id": "70f8300c-6655-4e0d-a553-8c2afd7c2d56",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T17:01:02.447665"
+  },
+  {
+    "run_id": "564ad069-db28-4040-8287-75c457333026",
+    "dataset_id": "online_retail_transactions",
+    "metadata_version": 3,
+    "source": "data/raw/online_retail.csv",
+    "target": "data/curated/online_retail_curated.csv",
+    "timestamp": "2026-01-22T17:01:03.592634"
+  },
+  {
+    "run_id": "014e4dca-b79c-4e8f-a868-a3f6422074ee",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T17:01:07.195503"
+  },
+  {
+    "run_id": "84830644-5c95-4dba-935f-b4bc5456e5e4",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-22T17:13:34.754535"
+  },
+  {
+    "run_id": "837e1c03-e9db-4244-892e-11487ca1e29c",
+    "dataset_id": "online_retail_transactions",
+    "metadata_version": 3,
+    "source": "data/raw/online_retail.csv",
+    "target": "data/curated/online_retail_curated.csv",
+    "timestamp": "2026-01-22T17:13:35.930464"
+  },
+  {
+    "run_id": "1f77daa0-5d9e-44cb-a200-ec638e5b6809",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-26T00:54:34.861486"
+  },
+  {
+    "run_id": "7ceccef3-d4cd-4f84-a409-3b56dab6ba15",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-26T22:37:55.618822"
+  },
+  {
+    "run_id": "510ab23f-f71f-4015-99c7-83458b8b147d",
+    "dataset_id": "online_retail_transactions",
+    "metadata_version": 4,
+    "source": "data/raw/online_retail.csv",
+    "target": "data/curated/online_retail_curated.csv",
+    "timestamp": "2026-01-26T22:37:56.930398"
+  },
+  {
+    "run_id": "3f852eb0-8ced-4228-ad4c-3dd43ec0f5ff",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-26T22:39:48.441407"
+  },
+  {
+    "run_id": "23a85a5a-c191-4f0a-b5bf-09aa56d3c7ef",
+    "dataset_id": "online_retail_transactions",
+    "metadata_version": 5,
+    "source": "data/raw/online_retail.csv",
+    "target": "data/curated/online_retail_curated.csv",
+    "timestamp": "2026-01-26T22:39:49.733560"
+  },
+  {
+    "run_id": "0e705ab5-8f8f-4c65-88c3-1c11ded3db34",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-26T22:43:54.733002"
+  },
+  {
+    "run_id": "20229400-eee5-441f-b8c0-ba97ebb8e7ef",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-26T22:51:43.156582"
+  },
+  {
+    "run_id": "befdb5a2-2fbb-4b8f-93d9-12d4202fa1db",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-26T22:56:42.106857"
+  },
+  {
+    "run_id": "fb63e991-7099-4ad2-8630-c0916ee9ee19",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-26T23:00:36.885292"
+  },
+  {
+    "run_id": "5ec5998e-8fb9-49b9-a511-a70a92b332b9",
+    "dataset_id": "online_retail_transactions",
+    "metadata_version": 3,
+    "source": "data/raw/online_retail.csv",
+    "target": "data/curated/online_retail_curated.csv",
+    "timestamp": "2026-01-26T23:00:38.240044"
+  },
+  {
+    "run_id": "19ea43f2-63d4-4778-85f0-7444ff1d05c1",
+    "dataset_id": "amazon_product_reviews",
+    "metadata_version": 2,
+    "source": "data/raw/amazon.csv",
+    "target": "data/curated/amazon_metadata_curated.csv",
+    "timestamp": "2026-01-26T23:12:26.588899"
+  },
+  {
+    "run_id": "1185ca08-74d5-4303-b743-e1df1273b600",
+    "dataset_id": "online_retail_transactions",
+    "metadata_version": 3,
+    "source": "data/raw/online_retail.csv",
+    "target": "data/curated/online_retail_curated.csv",
+    "timestamp": "2026-01-26T23:12:27.620141"
+  }
+]

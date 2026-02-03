@@ -1,0 +1,3 @@
+rejection_reason,rejection_category,count
+invalid_price,Type/Domain violation,2
+null_product_id,Structural violation,5

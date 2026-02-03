@@ -1,0 +1,7 @@
+{
+  "generated_at": "2026-01-26T00:55:42.342790",
+  "agent_type": "CLASSICAL_CONFIDENCE_AGENT",
+  "confidence_score": 0.995,
+  "execution_profile": "full_run",
+  "decision_logic": "1 - (rejected / total)"
+}

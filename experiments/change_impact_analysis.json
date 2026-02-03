@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-01-26T23:12:27.572446",
+  "dataset_id": "online_retail_transactions",
+  "impact_type": "NEUTRAL",
+  "differences": {
+    "output_delta": 540445,
+    "rejected_delta": 0
+  }
+}

@@ -1,0 +1,27 @@
+dataset_id: amazon_product_reviews
+
+execution_profile: dry_run
+
+source:
+  path: data/raw/amazon.csv
+
+target:
+  path: data/curated/amazon_metadata_curated.csv
+
+transformations:
+  drop_null_product_id: true
+  convert_prices_to_numeric: true
+  convert_ratings_to_numeric: true
+  validate_prices: false
+  validate_ratings: false
+
+columns:
+  product_id: product_id
+  discounted_price: discounted_price
+  actual_price: actual_price
+  rating: rating
+
+error_mode: fail_fast
+# options: fail_fast | soft_fail
+
+execution_logging: true

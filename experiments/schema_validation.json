@@ -1,0 +1,11 @@
+{
+  "dataset_id": "amazon_product_reviews",
+  "timestamp": "2026-01-11T18:06:45.086760",
+  "column_check": "PASS",
+  "type_compatibility": {
+    "discounted_price": "PASS",
+    "actual_price": "PASS",
+    "rating": "PASS"
+  },
+  "overall_status": "PASS"
+}

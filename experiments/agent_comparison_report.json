@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-01-26T00:57:24.319111",
+  "classical_agent": {
+    "confidence_score": 0.995,
+    "execution_profile": "full_run"
+  },
+  "quantum_agent": {
+    "confidence_score": 0.996,
+    "execution_profile": "full_run"
+  },
+  "evaluation": {
+    "confidence_delta": 0.001,
+    "execution_profile_changed": false
+  }
+}

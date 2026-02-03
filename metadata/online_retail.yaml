@@ -1,0 +1,61 @@
+# =====================================================
+# DATASET IDENTIFICATION
+# =====================================================
+dataset_id: online_retail_transactions
+
+# =====================================================
+# SOURCE CONFIGURATION
+# =====================================================
+source:
+  path: data/raw/online_retail.csv
+  format: csv
+  description: >
+    Online retail transactional dataset containing invoices,
+    products, quantities, prices, customers, and countries.
+
+# =====================================================
+# TARGET CONFIGURATION
+# =====================================================
+target:
+  path: data/curated/online_retail_curated.csv
+  rejected_path: data/curated/online_retail_rejected.csv
+
+# =====================================================
+# COLUMN MAPPINGS
+# Logical column names → dataset column names
+# =====================================================
+columns:
+  invoice_id: Invoice
+  product_code: StockCode
+  product_description: Description
+  quantity: Quantity
+  invoice_date: InvoiceDate
+  unit_price: Price
+  customer_id: Customer ID
+  country: Country
+
+# =====================================================
+# TRANSFORMATION & VALIDATION FLAGS
+# These align with your existing pipeline behavior
+# =====================================================
+transformations:
+  drop_null_invoice_id: true
+  drop_null_product_code: true
+  drop_null_customer_id: false
+
+  convert_quantity_to_numeric: true
+  convert_unit_price_to_numeric: true
+
+  validate_quantity_positive: true
+  validate_unit_price_positive: true
+
+  allow_negative_quantity: false
+  allow_zero_price: false
+
+# =====================================================
+# EXECUTION PROFILE (DEFAULT)
+# Can be overridden by quantum agent
+# =====================================================
+execution_profile: full_run
+
+

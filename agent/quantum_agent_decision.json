@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-01-26T23:12:25.954710",
+  "quantum_quality_state": {
+    "valid": 0.995,
+    "suspect": 0.003,
+    "recoverable": 0.001,
+    "invalid": 0.0
+  },
+  "confidence_score": 0.996,
+  "collapsed_execution_profile": "full_run",
+  "agent_decision": "PROCEED_WITH_FULL_EXECUTION"
+}

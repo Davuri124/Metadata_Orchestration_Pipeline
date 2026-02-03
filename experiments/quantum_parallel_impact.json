@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-01-22T12:11:14.106187",
+  "dataset_id": "amazon_product_reviews",
+  "baseline": {
+    "input_records": 1465,
+    "output_records": 1465,
+    "rejected_records": 0
+  },
+  "quantum_parallel_paths": [
+    {
+      "path_id": "BASELINE",
+      "description": "No rule changes (classical execution)",
+      "simulated_output_records": 1465,
+      "recovered_records": 0,
+      "confidence_assumption": 1.0
+    },
+    {
+      "path_id": "RELAX_DOMAIN",
+      "description": "Relax domain validation rules",
+      "simulated_output_records": 1465,
+      "recovered_records": 0,
+      "confidence_assumption": 0.85
+    },
+    {
+      "path_id": "RELAX_TYPE_DOMAIN",
+      "description": "Relax type and domain validation rules",
+      "simulated_output_records": 1465,
+      "recovered_records": 0,
+      "confidence_assumption": 0.75
+    }
+  ]
+}
