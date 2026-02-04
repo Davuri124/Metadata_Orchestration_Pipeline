@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-02-04T11:50:49.202810",
+  "analysis": {
+    "total_pipeline_runs": 33,
+    "unique_execution_profiles": 2,
+    "speciation_rate": 0.0606,
+    "profile_frequency": [
+      {
+        "execution_profile": "dry_run",
+        "count": 8,
+        "percentage": 24.24
+      },
+      {
+        "execution_profile": "full_run",
+        "count": 25,
+        "percentage": 75.76
+      }
+    ]
+  },
+  "interpretation": "Speciation frequency analysis evaluates how often the pipeline diverges into different execution paths. Excessive speciation may indicate instability, while low speciation may indicate underutilized adaptability."
+}

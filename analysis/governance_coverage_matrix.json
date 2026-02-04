@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-02-04T12:12:23.151180",
+  "governance_coverage_matrix": {
+    "execution_audit": {
+      "artifact": "execution_summary.json",
+      "present": true
+    },
+    "metadata_versioning": {
+      "artifact": "metadata_versions.json",
+      "present": true
+    },
+    "change_impact_analysis": {
+      "artifact": "change_impact_analysis.json",
+      "present": true
+    },
+    "data_lineage": {
+      "artifact": "data_lineage.json",
+      "present": true
+    },
+    "performance_observability": {
+      "artifact": "performance_metrics.json",
+      "present": true
+    },
+    "orchestration_tracking": {
+      "artifact": "orchestration_log.json",
+      "present": true
+    },
+    "execution_profile_tracking": {
+      "artifact": "execution_profile_report.json",
+      "present": true
+    },
+    "pipeline_speciation": {
+      "artifact": "pipeline_speciation_log.json",
+      "present": true
+    }
+  },
+  "summary": {
+    "covered_dimensions": 8,
+    "total_dimensions": 8,
+    "coverage_ratio": 1.0
+  },
+  "interpretation": "Governance coverage matrix enumerates which governance dimensions are satisfied based on the presence of corresponding audit artifacts."
+}
