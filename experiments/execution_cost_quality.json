@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-02-04T11:24:35.213505",
+  "dataset_id": "online_retail_transactions",
+  "metrics": {
+    "total_execution_time_seconds": 0.3949,
+    "input_records": 541910,
+    "output_records": 541910,
+    "quality_ratio": 1.0,
+    "quality_per_second": 2.532584
+  },
+  "interpretation": "Execution cost vs quality analysis evaluates whether data quality gains are achieved efficiently relative to execution time."
+}
