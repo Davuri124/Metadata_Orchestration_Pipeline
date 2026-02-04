@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-02-04T12:08:21.232186",
+  "dataset_id": "online_retail_transactions",
+  "quantum_path_accuracy": [
+    {
+      "path_id": "BASELINE",
+      "description": "No rule changes (classical execution)",
+      "simulated_output_records": 1465,
+      "actual_output_records": 541910,
+      "accuracy_score": 0.0027,
+      "confidence_assumption": 1.0
+    },
+    {
+      "path_id": "RELAX_DOMAIN",
+      "description": "Relax domain validation rules",
+      "simulated_output_records": 1465,
+      "actual_output_records": 541910,
+      "accuracy_score": 0.0027,
+      "confidence_assumption": 0.85
+    },
+    {
+      "path_id": "RELAX_TYPE_DOMAIN",
+      "description": "Relax type and domain validation rules",
+      "simulated_output_records": 1465,
+      "actual_output_records": 541910,
+      "accuracy_score": 0.0027,
+      "confidence_assumption": 0.75
+    }
+  ],
+  "interpretation": "Quantum path accuracy evaluates how closely speculative quantum-inspired execution paths predicted actual pipeline outcomes."
+}

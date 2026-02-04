@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-02-04T11:37:30.374542",
+  "required_artifacts": [
+    "execution_summary.json",
+    "metadata_versions.json",
+    "change_impact_analysis.json",
+    "data_lineage.json",
+    "performance_metrics.json",
+    "orchestration_log.json",
+    "execution_profile_report.json",
+    "pipeline_speciation_log.json",
+    "governance_readiness_report.json"
+  ],
+  "artifact_presence": {
+    "execution_summary.json": true,
+    "metadata_versions.json": true,
+    "change_impact_analysis.json": true,
+    "data_lineage.json": true,
+    "performance_metrics.json": true,
+    "orchestration_log.json": true,
+    "execution_profile_report.json": true,
+    "pipeline_speciation_log.json": true,
+    "governance_readiness_report.json": true
+  },
+  "missing_artifacts": [],
+  "overall_status": "NO_DRIFT_DETECTED",
+  "interpretation": "All required governance artifacts are present."
+}
