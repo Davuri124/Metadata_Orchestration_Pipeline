@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-02-04T11:32:14.254174",
+  "dataset_id": "online_retail_transactions",
+  "inputs": {
+    "confidence_volatility": 0.0,
+    "quality_per_second": 2.532584,
+    "execution_profile": "dry_run"
+  },
+  "adaptive_execution_benefit_score": 1.0,
+  "verdict": "HIGH_BENEFIT",
+  "interpretation": "Adaptive execution benefit score evaluates whether agent-driven execution improves efficiency and stability relative to its operational cost."
+}
