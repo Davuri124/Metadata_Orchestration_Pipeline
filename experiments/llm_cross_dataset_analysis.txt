@@ -1,0 +1,11 @@
+Generated at: 2026-02-04T18:09:00.492972
+
+CROSS-DATASET ANALYSIS
+---------------------
+The execution summaries indicate measurable behavioral differences between datasets. Some datasets exhibit higher rejection rates, leading to reduced output records, while others maintain higher acceptance ratios.
+
+Agent confidence scores vary accordingly. Datasets with cleaner structural conformance tend to produce higher confidence, resulting in full or dry-run execution profiles. In contrast, datasets with greater inconsistency are more frequently associated with validation-only execution.
+
+These differences do not indicate instability in the pipeline. Instead, they demonstrate dataset-sensitive behavior, where execution adapts based on observed quality characteristics while preserving governance constraints.
+
+Overall, the system exhibits consistent decision logic applied across heterogeneous datasets, reinforcing that behavior is data-driven rather than hard-coded.

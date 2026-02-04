@@ -1,0 +1,11 @@
+Generated at: 2026-02-04T13:26:00.717738
+
+AGENT DECISION JUSTIFICATION
+---------------------------
+The classical confidence agent computes its decision using a single deterministic formula based on the ratio of rejected to total records. This results in a linear confidence score and a fixed mapping to an execution profile.
+
+The quantum-inspired agent differs by modeling data quality as a probabilistic composition of multiple states, such as valid and recoverable. Its confidence score is derived from the combined probability of acceptable states rather than a single rejection ratio.
+
+Because of this probabilistic modeling, the quantum-inspired agent may produce a higher or lower confidence score for the same dataset, leading to a different execution profile selection.
+
+The observed divergence does not indicate an error in either agent. Instead, it highlights differing interpretations of data quality, where the classical agent assumes binary validity and the quantum-inspired agent allows partial recoverability to influence execution behavior.

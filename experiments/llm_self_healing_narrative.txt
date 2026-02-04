@@ -1,0 +1,11 @@
+Generated at: 2026-02-04T18:06:36.003695
+
+SELF-HEALING NARRATIVE
+---------------------
+During pipeline execution, a limited number of failures were detected across datasets. Each failure was immediately classified into a governed failure class based on its exception type.
+
+For failures deemed recoverable, the orchestrator applied a predefined healing policy. These policies restricted recovery attempts to safe execution profiles such as validation-only or dry-run modes.
+
+Some retries resulted in successful recovery, while others terminated after a single bounded attempt. No uncontrolled or repeated retries were observed.
+
+The self-healing governance report confirms that all recovery actions adhered strictly to policy constraints. This ensures that adaptability was achieved without compromising auditability or execution safety.
