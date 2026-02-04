@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-02-04T10:40:07.363715",
+  "total_snapshots": 2,
+  "metrics": {
+    "confidence_volatility": 0.0,
+    "profile_switches": 0,
+    "volatility_level": "STABLE"
+  },
+  "interpretation": "Agent decisions are stable over time."
+}

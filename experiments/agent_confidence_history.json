@@ -1,0 +1,26 @@
+[
+  {
+    "snapshot_id": "eb972f69-a818-4724-b5c6-bb265cea3725",
+    "recorded_at": "2026-02-04T10:36:42.198834",
+    "confidence_score": 0.996,
+    "execution_profile": "full_run",
+    "quantum_quality_state": {
+      "valid": 0.995,
+      "suspect": 0.003,
+      "recoverable": 0.001,
+      "invalid": 0.0
+    }
+  },
+  {
+    "snapshot_id": "4eeaf5ee-861e-4ba4-b07f-8917a4da5909",
+    "recorded_at": "2026-02-04T10:37:57.350359",
+    "confidence_score": 0.996,
+    "execution_profile": "full_run",
+    "quantum_quality_state": {
+      "valid": 0.995,
+      "suspect": 0.003,
+      "recoverable": 0.001,
+      "invalid": 0.0
+    }
+  }
+]

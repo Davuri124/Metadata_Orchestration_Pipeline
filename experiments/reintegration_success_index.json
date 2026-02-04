@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-02-04T11:08:22.800234",
+  "metrics": {
+    "total_rejected_records": 7,
+    "reintegrated_records": 0,
+    "reintegration_ratio": 0.0,
+    "status": "NO_EFFECT"
+  },
+  "interpretation": "Reintegration success index evaluates whether adaptive rule relaxation leads to meaningful recovery of previously rejected records."
+}

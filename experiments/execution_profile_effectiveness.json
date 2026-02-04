@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-02-04T11:02:00.907402",
+  "analysis": {
+    "dataset_id": "online_retail_transactions",
+    "execution_profile": "dry_run",
+    "output_records": 541910,
+    "rejected_records": 0,
+    "interpretation": "The most recent execution profile 'dry_run' was applied to dataset 'online_retail_transactions' and produced the observed execution outcomes."
+  },
+  "assumption": "Execution profile effectiveness is evaluated using the most recent execution profile due to decoupled orchestration and pipeline run identifiers."
+}
