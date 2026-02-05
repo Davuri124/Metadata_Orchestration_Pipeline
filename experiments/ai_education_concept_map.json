@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-02-05T14:40:38.427993",
+  "concept_map": {
+    "Auditability": {
+      "description": "Ability to trace and justify system behavior",
+      "artifacts": [
+        "experiments/execution_summary.json",
+        "experiments/orchestration_log.json"
+      ]
+    },
+    "Adaptivity": {
+      "description": "System changes execution behavior based on observed conditions",
+      "artifacts": [
+        "experiments/pipeline_speciation_log.json",
+        "experiments/execution_profile_report.json"
+      ]
+    },
+    "Traceability": {
+      "description": "Ability to track data and decision lineage end-to-end",
+      "artifacts": [
+        "experiments/data_lineage.json"
+      ]
+    },
+    "Governance": {
+      "description": "Controlled, observable, and auditable intelligence",
+      "artifacts": [
+        "experiments/governance_maturity_index.json",
+        "experiments/governance_coverage_matrix.json"
+      ]
+    },
+    "Safety": {
+      "description": "Bounded execution and controlled recovery",
+      "artifacts": [
+        "experiments/self_healing_governance_report.json",
+        "agent/healing_policy.py"
+      ]
+    }
+  }
+}

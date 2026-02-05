@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-02-05T14:53:43.002363",
+  "curriculum_type": "Advisory",
+  "autonomy_level": "None",
+  "learning_curriculum": [
+    {
+      "focus_area": "Metadata Validation Rules",
+      "reason": "Elevated metadata risk score detected",
+      "evidence": [
+        "experiments/metadata_risk_score.json"
+      ],
+      "priority": "HIGH",
+      "recommended_action": "Human review of validation constraints and schema assumptions"
+    },
+    {
+      "focus_area": "Governance Consistency",
+      "reason": "Governance drift observed across historical runs",
+      "evidence": [
+        "experiments/governance_drift_report.json"
+      ],
+      "priority": "MEDIUM",
+      "recommended_action": "Stabilize governance checks and artifact completeness"
+    },
+    {
+      "focus_area": "Reintegration Strategy",
+      "reason": "Mixed reintegration success across executions",
+      "evidence": [
+        "experiments/reintegration_success_index.json"
+      ],
+      "priority": "MEDIUM",
+      "recommended_action": "Evaluate controlled relaxation strategies under supervision"
+    }
+  ]
+}

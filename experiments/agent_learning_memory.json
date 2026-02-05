@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-02-05T14:43:49.038726",
+  "learning_scope": "Advisory only",
+  "autonomy_level": "None",
+  "learning_observations": [
+    {
+      "pattern": "Execution profile effectiveness varies with agent confidence levels",
+      "evidence": [
+        "experiments/agent_confidence_history.json",
+        "experiments/execution_profile_effectiveness.json"
+      ],
+      "learning_type": "Confidence calibration",
+      "recommendation": "Review confidence thresholds to balance safety and throughput"
+    },
+    {
+      "pattern": "Adaptive execution shows measurable benefit over static execution",
+      "evidence": [
+        "experiments/adaptive_execution_benefit.json"
+      ],
+      "learning_type": "Adaptive strategy evaluation",
+      "recommendation": "Preserve adaptive execution as a governed default strategy"
+    }
+  ]
+}

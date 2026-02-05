@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-02-05T14:37:48.348786",
+  "educational_insights": [
+    {
+      "concept": "Adaptive Execution",
+      "system_behavior": "Execution profile dynamically selected by agent",
+      "ai_principle": "Safety-aware decision making",
+      "why_it_happened": "Agent confidence score was 0.996 leading to profile full_run",
+      "evidence_artifacts": [
+        "agent/quantum_agent_decision.json",
+        "experiments/execution_profile_effectiveness.json"
+      ],
+      "learning_outcome": "Demonstrates how AI systems trade execution speed for safety under uncertainty"
+    },
+    {
+      "concept": "Governed Intelligence",
+      "system_behavior": "All adaptive decisions remained auditable",
+      "ai_principle": "Responsible AI governance",
+      "why_it_happened": "Governance maturity index indicates UNKNOWN",
+      "evidence_artifacts": [
+        "experiments/governance_maturity_index.json"
+      ],
+      "learning_outcome": "Shows that intelligence can be introduced without sacrificing auditability"
+    }
+  ]
+}
